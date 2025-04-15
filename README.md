@@ -1,5 +1,5 @@
 # **Hey, I'm Mithun Meenakshi S!**
- *Applied Data Science postgrad | Ex-Physics | F1 obsessed*
+ *Applied Data Science postgrad at SRMIST Chennai, India*
 
  [**LinkedIn**](https://www.linkedin.com/in/mithunmeenakshi/) • [**Kaggle**](https://www.kaggle.com/mithunmeenakshis) • [**Email**](mithunmeenakshis@gmail.com)
 
