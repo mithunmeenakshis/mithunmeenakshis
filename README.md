@@ -1,5 +1,5 @@
 # **Hey, I'm Mithun Meenakshi S!**
- *Applied Data Science postgrad at SRMIST Chennai, India*
+ *Building cool stuff | Student @ SRMIST Ramapuram, Chennai*
 
  [**LinkedIn**](https://www.linkedin.com/in/mithunmeenakshi/) • [**Kaggle**](https://www.kaggle.com/mithunmeenakshis) • [**Email**](mithunmeenakshis@gmail.com)
 
