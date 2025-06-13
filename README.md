@@ -8,5 +8,3 @@
 - [**Musk’s Sentiment:**](https://www.kaggle.com/code/mithunmeenakshis/musk-s-sentiment) Conducted sentiment analysis on Elon Musk’s tweets using NLP techniques to classify sentiments into positive, negative, and neutral. Applied clustering to identify patterns over time and visualized key trends.
 - [**Chennai AQI Prediction:**](https://github.com/mithunmeenakshis/chennai_aqi) Developed an LSTM model to forecast air quality index (AQI) using Chennai's weather and AQI data from 2024. Explored time-series forecasting techniques and visualized model performance through rolling window analysis.
 
-*“My biggest error? Something that is to happen yet.”*  
-— Ayrton Senna
