@@ -8,3 +8,11 @@
 - [**Musk’s Sentiment:**](https://www.kaggle.com/code/mithunmeenakshis/musk-s-sentiment) Conducted sentiment analysis on Elon Musk’s tweets using NLP techniques to classify sentiments into positive, negative, and neutral. Applied clustering to identify patterns over time and visualized key trends.
 - [**Chennai AQI Prediction:**](https://github.com/mithunmeenakshis/chennai_aqi) Developed an LSTM model to forecast air quality index (AQI) using Chennai's weather and AQI data from 2024. Explored time-series forecasting techniques and visualized model performance through rolling window analysis.
 
+### **You Learn Something New Every Day**
+#### August 2025:
+- [**How Transformer LLMs Work**](https://learn.deeplearning.ai/accomplishments/011d96b6-37d0-4281-b54e-97324348be89?usp=sharing)
+
+#### Earlier courses: 
+- [**ChatGPT Prompt Engineering for Developers**](https://learn.deeplearning.ai/accomplishments/ed160f06-e6e1-4c82-ac9f-f370b219acb6?usp=sharing)
+- [**Pair Programming with a Large Language Model**](https://learn.deeplearning.ai/accomplishments/d78aef5d-a532-448f-9adb-495edf5f88e3?usp=sharing)
+- [**Vibe Coding 101 with Replit**](https://learn.deeplearning.ai/accomplishments/c422c946-8d47-40be-94fc-2aa651bad949?usp=sharing)
