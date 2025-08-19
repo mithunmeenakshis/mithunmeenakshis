@@ -10,6 +10,7 @@
 
 ### **You Learn Something New Every Day**
 #### August 2025:
+- [**Attention in Transformers: Concepts and Code in PyTorch**](https://learn.deeplearning.ai/accomplishments/fc86794a-df9c-48f7-ab17-2e1a9a00487b?usp=sharing)
 - [**How Transformer LLMs Work**](https://learn.deeplearning.ai/accomplishments/011d96b6-37d0-4281-b54e-97324348be89?usp=sharing)
 
 #### Earlier courses: 
