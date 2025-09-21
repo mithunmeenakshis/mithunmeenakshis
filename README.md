@@ -20,14 +20,11 @@
 
 ## 📚 You Learn Something New Every Day  
 
-### August 2025
 - [Vector Databases: from Embeddings to Applications](https://learn.deeplearning.ai/accomplishments/9d47de84-b2a6-4744-a691-d00a9ea9ddd7?usp=sharing)
 - [Understanding and Applying Text Embeddings](https://learn.deeplearning.ai/accomplishments/adb11045-1f6d-475a-8984-d24d20ffb108?usp=sharing)  
 - [Attention in Transformers: Concepts and Code in PyTorch](https://learn.deeplearning.ai/accomplishments/fc86794a-df9c-48f7-ab17-2e1a9a00487b?usp=sharing)  
 - [How Transformer LLMs Work](https://learn.deeplearning.ai/accomplishments/011d96b6-37d0-4281-b54e-97324348be89?usp=sharing)  
 - [AI Python for Beginners](https://learn.deeplearning.ai/accomplishments/1c4c20bf-62de-48e9-bb0a-637b765de6c5?usp=sharing)  
-
-### Earlier Courses
 - [ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/accomplishments/ed160f06-e6e1-4c82-ac9f-f370b219acb6?usp=sharing)  
 - [Pair Programming with a Large Language Model](https://learn.deeplearning.ai/accomplishments/d78aef5d-a532-448f-9adb-495edf5f88e3?usp=sharing)  
 - [Vibe Coding 101 with Replit](https://learn.deeplearning.ai/accomplishments/c422c946-8d47-40be-94fc-2aa651bad949?usp=sharing)  
