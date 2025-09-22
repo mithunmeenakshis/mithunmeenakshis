@@ -20,6 +20,7 @@
 
 ## 📚 You Learn Something New Every Day  
 
+- [Getting Structured LLM Output](https://learn.deeplearning.ai/accomplishments/5c5093d8-2669-421b-8441-1e4766f220d0?usp=sharing)
 - [Vector Databases: from Embeddings to Applications](https://learn.deeplearning.ai/accomplishments/9d47de84-b2a6-4744-a691-d00a9ea9ddd7?usp=sharing)
 - [Understanding and Applying Text Embeddings](https://learn.deeplearning.ai/accomplishments/adb11045-1f6d-475a-8984-d24d20ffb108?usp=sharing)  
 - [Attention in Transformers: Concepts and Code in PyTorch](https://learn.deeplearning.ai/accomplishments/fc86794a-df9c-48f7-ab17-2e1a9a00487b?usp=sharing)  
