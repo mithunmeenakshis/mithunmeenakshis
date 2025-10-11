@@ -1,12 +1,13 @@
 # Hey, I'm Mithun Meenakshi S! 👋
 *AI Engineer Intern @ Kalaiworks | Student @ SRMIST Ramapuram, Chennai*  
 
-[**LinkedIn**](https://www.linkedin.com/in/mithunmeenakshi/) • [**Kaggle**](https://www.kaggle.com/mithunmeenakshis) • [**Email**](mailto:mithunmeenakshis@gmail.com)
+[**LinkedIn**](https://www.linkedin.com/in/mithunmeenakshi/) • [**Kaggle**](https://www.kaggle.com/mithunmeenakshis) • [**Email**](mailto:mithunmeenakshis@gmail.com) • [**Blog**](https://ihskaneem25.substack.com/) 
 
 ---
 
 ## 🚀 Happy Little Experiments
 - **[Search Club:](https://github.com/mithunmeenakshis/i-mess-around-here/blob/main/Search%20Club/notebook.ipynb)** Benchmarked dense (transformer-based), sparse (TF-IDF), and hybrid search methods on Urban Dictionary definitions, evaluating semantic and keyword-based retrieval. Visualized search performance, score distributions, and qualitative results to highlight the strengths and trade-offs of each approach.
+ 
 - **[WeirdFRIENDS:](https://github.com/mithunmeenakshis/i-mess-around-here/blob/main/WeirdFRIENDS/notebook.ipynb)** Identified the "weirdest" FRIENDS episodes by embedding episode summaries with a pre-trained transformer and detecting outliers using Isolation Forest. Visualized high-dimensional semantic relationships via PCA, highlighting anomalous episodes in an interactive 2D plot, while understanding the data losses in PCA.
 
 - **[Tortured Bots Department:](https://github.com/mithunmeenakshis/i-mess-around-here/blob/main/tortured-bots-department/torturedtransformer.ipynb)** Built a transformer-based lyric generator trained on Taylor Swift’s The Tortured Poets Department album. Implemented preprocessing, tokenization, and custom training with early stopping and hyperparameter optimization to generate contextually coherent lyric sequences.
@@ -17,15 +18,3 @@
  
 - **[Chennai AQI Prediction:](https://github.com/mithunmeenakshis/chennai_aqi)** Developed an LSTM model to forecast air quality index (AQI) using Chennai's weather and AQI data from 2024. Explored time-series forecasting techniques and visualized model performance through rolling window analysis.
 ---
-
-## 📚 You Learn Something New Every Day  
-
-- [Getting Structured LLM Output](https://learn.deeplearning.ai/accomplishments/5c5093d8-2669-421b-8441-1e4766f220d0?usp=sharing)
-- [Vector Databases: from Embeddings to Applications](https://learn.deeplearning.ai/accomplishments/9d47de84-b2a6-4744-a691-d00a9ea9ddd7?usp=sharing)
-- [Understanding and Applying Text Embeddings](https://learn.deeplearning.ai/accomplishments/adb11045-1f6d-475a-8984-d24d20ffb108?usp=sharing)  
-- [Attention in Transformers: Concepts and Code in PyTorch](https://learn.deeplearning.ai/accomplishments/fc86794a-df9c-48f7-ab17-2e1a9a00487b?usp=sharing)  
-- [How Transformer LLMs Work](https://learn.deeplearning.ai/accomplishments/011d96b6-37d0-4281-b54e-97324348be89?usp=sharing)  
-- [AI Python for Beginners](https://learn.deeplearning.ai/accomplishments/1c4c20bf-62de-48e9-bb0a-637b765de6c5?usp=sharing)  
-- [ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/accomplishments/ed160f06-e6e1-4c82-ac9f-f370b219acb6?usp=sharing)  
-- [Pair Programming with a Large Language Model](https://learn.deeplearning.ai/accomplishments/d78aef5d-a532-448f-9adb-495edf5f88e3?usp=sharing)  
-- [Vibe Coding 101 with Replit](https://learn.deeplearning.ai/accomplishments/c422c946-8d47-40be-94fc-2aa651bad949?usp=sharing)  
