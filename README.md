@@ -2,19 +2,3 @@
 *AI Engineer Intern @ Kalaiworks | Student @ SRMIST Ramapuram, Chennai*  
 
 [**LinkedIn**](https://www.linkedin.com/in/mithunmeenakshi/) • [**Kaggle**](https://www.kaggle.com/mithunmeenakshis) • [**Email**](mailto:mithunmeenakshis@gmail.com) • [**Blog**](https://ihskaneem25.substack.com/) 
-
----
-
-## 🚀 Happy Little Experiments
-- **[Search Club:](https://github.com/mithunmeenakshis/i-mess-around-here/blob/main/Search%20Club/notebook.ipynb)** Benchmarked dense (transformer-based), sparse (TF-IDF), and hybrid search methods on Urban Dictionary definitions, evaluating semantic and keyword-based retrieval. Visualized search performance, score distributions, and qualitative results to highlight the strengths and trade-offs of each approach.
- 
-- **[WeirdFRIENDS:](https://github.com/mithunmeenakshis/i-mess-around-here/blob/main/WeirdFRIENDS/notebook.ipynb)** Identified the "weirdest" FRIENDS episodes by embedding episode summaries with a pre-trained transformer and detecting outliers using Isolation Forest. Visualized high-dimensional semantic relationships via PCA, highlighting anomalous episodes in an interactive 2D plot, while understanding the data losses in PCA.
-
-- **[Tortured Bots Department:](https://github.com/mithunmeenakshis/i-mess-around-here/blob/main/tortured-bots-department/torturedtransformer.ipynb)** Built a transformer-based lyric generator trained on Taylor Swift’s The Tortured Poets Department album. Implemented preprocessing, tokenization, and custom training with early stopping and hyperparameter optimization to generate contextually coherent lyric sequences.
-
-- **[LSTMunchies:](https://www.kaggle.com/code/mithunmeenakshis/lstmunchies)** Developed a sequential restaurant recommender system using LSTM networks to model and predict personalized food ordering behavior over time. Simulated realistic user order history with preferences like cuisine, budget, and frequency. Incorporated an *"I'm Feeling Lucky"* feature to promote novelty and reduce decision fatigue, enabling faster and more diverse food choices.
-
-- **[Musk’s Sentiment:](https://www.kaggle.com/code/mithunmeenakshis/musk-s-sentiment)** Conducted sentiment analysis on Elon Musk’s tweets using NLP techniques to classify sentiments into positive, negative, and neutral. Applied clustering to identify patterns over time and visualized key trends.
- 
-- **[Chennai AQI Prediction:](https://github.com/mithunmeenakshis/chennai_aqi)** Developed an LSTM model to forecast air quality index (AQI) using Chennai's weather and AQI data from 2024. Explored time-series forecasting techniques and visualized model performance through rolling window analysis.
----
